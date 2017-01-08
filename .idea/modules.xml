@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APTProject.iml" filepath="$PROJECT_DIR$/APTProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apt-lib/apt-lib.iml" filepath="$PROJECT_DIR$/apt-lib/apt-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apt-process/apt-process.iml" filepath="$PROJECT_DIR$/apt-process/apt-process.iml" />
+    </modules>
+  </component>
+</project>
